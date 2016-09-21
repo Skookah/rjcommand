@@ -5,8 +5,13 @@ Production site availabe at http://www.rjcommand.space. GitHub version lags behi
 TODOs (x complete, + in progress, - planned):
 
 (x) HTTPS
+
 (+) Rewrite templating to be more flexible, extensible, PHP idiomatic
+
 (+) Condense and re-style CSS via SASS
+
 (+) Full re-documentation
+
 (-) Proper password reset procedure
+
 (-) Numerous small features related to the fleet management aspects
