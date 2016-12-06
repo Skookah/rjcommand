@@ -6,12 +6,12 @@ TODOs (x complete, + in progress, - planned):
 
 (x) HTTPS
 
-(+) Rewrite templating to be more flexible, extensible, PHP idiomatic
+(X) Rewrite templating to be more flexible, extensible, PHP idiomatic
 
-(+) Condense and re-style CSS via SASS
+(X) Condense and re-style CSS via SASS
 
 (+) Full re-documentation
 
 (-) Proper password reset procedure
 
-(-) Numerous small features related to the fleet management aspects
+(+) Numerous small features related to the fleet management aspects
